@@ -67,6 +67,17 @@ h2 {
 .skill_java {
   background-color: #eb7200;
 }
+.skill_php {
+  background-color: #777bb3;
+}
+
+.skill_typescript {
+  background-color: #3178c6;
+}
+
+.skill_solidity {
+  background-color: #363636;
+}
 
 .myskills ul li {
   width: 90px;
@@ -103,3 +114,4 @@ footer {
   color: #ffffff;
   text-align: center;
 }
+
